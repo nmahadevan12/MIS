@@ -92,14 +92,14 @@ The Multifunction Instrumentation System integrates oscilloscopes, function gene
 
 ## Instrument Summary
 
-| Instrument | Range | Accuracy | Update Rate |
-|:---|:---|:---|:---|
-| 🔵 **Ohmmeter** | 500 Ω – 10 kΩ | ±10% | 500 ms |
-| 🟢 **Voltmeter** | −5 V to +5 V | ±0.2 V | 500 ms |
-| 🟡 **DC Reference** | −5.00 V to +4.80 V (32 steps) | ±0.2 V | On demand |
+| Instrument | Range | Accuracy |
+|:---|:---|:---|
+| 🔵 **Ohmmeter** | 500 Ω – 10 kΩ | ±10% |
+| 🟢 **Voltmeter** | −5 V to +5 V | ±0.2 V |
+| 🟡 **DC Reference** | −5.00 V to +4.80 V (32 steps) | ±0.2 V |
 | 🟠 **Square Wave** | 100 Hz – 10 kHz, ±10 V pk | ±0.1 V amplitude / ±1% freq | Real-time PWM |
 | 🟣 **Sine Wave** | 1 – 10 kHz, 0 – 10 V pk | ±0.1 V amplitude / ±1% freq | Real-time audio |
-| 🔴 **Frequency Meter** | 1 – 10 kHz | ±1% | 500 ms |
+| 🔴 **Frequency Meter** | 1 – 10 kHz | ±1% |
 
 ---
 
