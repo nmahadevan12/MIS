@@ -1,7 +1,5 @@
 # Multifunction Instrumentation System (M.I.S.)
 
-**Developed by Nikhil Mahadevan**
-
 A portable, Raspberry Pi–powered electronic test bench that replaces six lab instruments — ohmmeter, voltmeter, DC reference, square/sine function generator, and frequency meter — with one integrated DAQ platform.
 
 [![Platform](https://img.shields.io/badge/Platform-Raspberry%20Pi%204-C51A4A?logo=raspberrypi&logoColor=white)](https://www.raspberrypi.com/)
