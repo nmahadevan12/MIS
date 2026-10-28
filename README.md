@@ -5,8 +5,6 @@ A portable, Raspberry Pi–powered electronic test bench that replaces six lab i
 [![Platform](https://img.shields.io/badge/Platform-Raspberry%20Pi%204-C51A4A?logo=raspberrypi&logoColor=white)](https://www.raspberrypi.com/)
 [![Language](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Hardware](https://img.shields.io/badge/Hardware-KiCad%20PCB-314CB0?logo=kicad&logoColor=white)](https://www.kicad.org/)
-[![Instruments](https://img.shields.io/badge/Instruments-6%20in%201-2EA043?style=for-the-badge)]()
-[![Firmware](https://img.shields.io/badge/Firmware-~970%20LOC-FF6F00?style=flat-square)]()
 
 ---
 
