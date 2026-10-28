@@ -558,9 +558,3 @@ Power Pi via **USB-C**, analog circuits via **24 V DC**. Wait ~20 s after boot.
 </td>
 </tr>
 </table>
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Built%20by-Nikhil%20Mahadevan-6E40C9?style=for-the-badge&logo=github&logoColor=white" alt="Built by Nikhil Mahadevan"/>
-</p>
